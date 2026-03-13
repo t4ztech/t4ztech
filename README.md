@@ -1,16 +1,62 @@
-## Hi there 👋
+# Marine Electrical Technician
 
-<!--
-**t4ztech/t4ztech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical technician working in demanding maritime environments where systems are complex, documentation is often incomplete, and problems must be solved quickly and safely.
 
-Here are some ideas to get you started:
+Much of my experience comes from field work on active vessels, supporting technical teams during maintenance, upgrades and electrical troubleshooting operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Focus
+
+- Marine electrical systems
+- Electrical troubleshooting and diagnostics
+- Vessel electrical upgrades and refit projects
+- Commissioning support
+- Industrial electrical systems
+
+---
+
+## Current Technical Development
+
+Expanding technical scope into:
+
+- Python for electrical diagnostics tools
+- PLC fundamentals and automation (CODESYS)
+- Hydraulic systems
+- Instrumentation and industrial measurement systems
+
+---
+
+## Project
+
+### Voltage Observability Monitor
+
+Python-based command-line utility for analysing 230V RMS voltage behaviour and detecting instability patterns.
+
+Features include:
+
+- threshold detection (WARN / ALARM)
+- optional drift detection
+- structured diagnostic outputs
+
+Repository:
+
+https://github.com/t4ztech/pilot_voltage_monitor
+
+---
+
+## Certifications
+
+- VCA
+- NEN 3140 VP
+
+---
+
+## Technical Interests
+
+Offshore technical environments including:
+
+- survey vessels
+- subsea operations
+- mission equipment support
+- electrical diagnostics and system troubleshooting
