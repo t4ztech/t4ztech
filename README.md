@@ -31,7 +31,10 @@ Expanding technical scope into:
 
 ### Voltage Observability Monitor
 
-Python-based command-line utility for analysing 230V RMS voltage behaviour and detecting instability patterns.
+A Python-based command-line utility for offline analysis of 230V RMS voltage data.
+
+Designed as an offline diagnostics utility for analysing industrial voltage data
+without modifying control systems.
 
 Features include:
 
