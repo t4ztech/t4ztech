@@ -29,12 +29,11 @@ Expanding technical scope into:
 
 ## Project
 
-### Voltage Observability Monitor
+###### Voltage Observability Monitor — Electrical Diagnostics Tool
 
 A Python-based command-line utility for offline analysis of 230V RMS voltage data.
 
-Designed as an offline diagnostics utility for analysing industrial voltage data
-without modifying control systems.
+Designed as a non-intrusive offline diagnostics utility for analysing industrial voltage data without modifying control systems.
 
 Features include:
 
