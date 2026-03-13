@@ -1,18 +1,18 @@
 # Marine Electrical Technician
 
-Electrical technician working in demanding maritime environments where systems are complex, documentation is often incomplete, and problems must be solved quickly and safely.
+Electrical technician working in complex maritime environments where vessel systems, mission equipment and industrial electrical infrastructure must operate reliably under demanding conditions.
 
-Much of my experience comes from field work on active vessels, supporting technical teams during maintenance, upgrades and electrical troubleshooting operations.
+My experience comes from field work on active vessels, supporting technical teams during maintenance, upgrades, refits and electrical troubleshooting operations where documentation may be limited and problems must be diagnosed quickly and safely.
 
 ---
 
 ## Technical Focus
 
-- Marine electrical systems
-- Electrical troubleshooting and diagnostics
-- Vessel electrical upgrades and refit projects
-- Commissioning support
-- Industrial electrical systems
+• Vessel electrical systems and offshore equipment support  
+• Electrical troubleshooting in complex maritime systems  
+• Vessel upgrades, refit projects and commissioning support 
+• Survey and mission equipment systems  
+• Industrial electrical and automation systems
 
 ---
 
